@@ -21,3 +21,7 @@ Make sure you have the following installed:
 
 Node.js (version 12 or higher)
 npm (Node Package Manager)
+
+Screenshots
+
+![image](https://github.com/user-attachments/assets/0e193fc5-c8ee-4c63-9679-860f0f5cab85)
