@@ -30,4 +30,4 @@ Screenshots
 ![image](https://github.com/user-attachments/assets/a5936049-9c13-4013-abeb-d06e711c9ce3)
 
 
-
+video link: https://drive.google.com/file/d/1Vq45ESvenf9spGFVgys8r6Aky2VWVg5i/view?usp=sharing
