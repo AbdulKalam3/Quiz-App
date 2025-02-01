@@ -25,3 +25,9 @@ npm (Node Package Manager)
 Screenshots
 
 ![image](https://github.com/user-attachments/assets/0e193fc5-c8ee-4c63-9679-860f0f5cab85)
+![image](https://github.com/user-attachments/assets/c8f245e7-5d5a-4835-8eaa-1fe655b6adf1)
+![image](https://github.com/user-attachments/assets/86fc1663-c9cd-4681-9228-1e0770609aa0)
+![image](https://github.com/user-attachments/assets/a5936049-9c13-4013-abeb-d06e711c9ce3)
+
+
+
